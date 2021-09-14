@@ -20,10 +20,15 @@
 
 ## Installations
 `pip install pandas`
+
 `pip install numpy`
+
 `pip install matplotlib`
+
 `pip install hvplot`
+
 `pip install plotly`
+
 `pip install -U scikit-learn`
 
 ## Contact Informtion
